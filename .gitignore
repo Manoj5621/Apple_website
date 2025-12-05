@@ -1,0 +1,8 @@
+
+# Node dependencies
+node_modules/
+
+# Recommended to keep environment files out of repo if you create them
+# (not present now, add when you actually create them):
+# .env
+# .env.local
