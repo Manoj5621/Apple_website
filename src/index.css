@@ -195,13 +195,7 @@ body {
 
         img {
           @apply h-full scale-150 lg:scale-100;
-          transform: matrix(80, 0, 0, 80, 0, 0);
-        }
-
-        @media (max-width: 1024px) {
-          img {
-            transform: matrix(1, 0, 0, 1, 0, 0);
-          }
+          transform-origin: center;
         }
       }
     }

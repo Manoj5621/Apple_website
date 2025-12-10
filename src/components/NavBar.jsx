@@ -6,8 +6,8 @@ const NavBar = () => {
             <img src="/logo.svg" alt="Apple logo" />
 
             <ul>
-                {navLinks.map((item) => (
-                <li key={item.lable}>
+                {navLinks.map((item, index) => (
+                <li key={index}>
                     <a href={item.lable}>{item.lable}</a>
                 </li>
                 ))}
