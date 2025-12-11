@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/DEeaT6FxEws" target="_blank">
       <img src="public/readme/hero.webp" alt="Project Banner">
     </a>
   <br />
@@ -11,16 +10,13 @@
 <img src="https://img.shields.io/badge/-Three.js-27136A?style=for-the-badge&logo=three.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/-CodeRabbit-FF6C37?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Hostinger-674CC4?style=for-the-badge&logo=hostinger&logoColor=white" />
+
 
 
   </div>
 
   <h3 align="center">Apple Mabook Website</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  <img src="public/Apple.png" alt="Apple Website" />
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -38,8 +34,6 @@
 - **[CodeRabbit](https://jsm.dev/mbook-coderabbit)** is an AI-powered code review tool that integrates with IDEs like VS Code and Git platforms such as GitHub and GitLab. It provides real-time, context-aware feedback on pull requests, including line-by-line analysis, security vulnerability detection, and adherence to coding standards. CodeRabbit learns from your team's preferences, adapting its reviews over time to enhance code quality and developer productivity.
 
 - **[GSAP](https://gsap.com/)** is a powerful JavaScript animation library used in this project to create dynamic, scroll-driven visuals. Features include SplitText animations for bold text reveals, ScrollTrigger for timeline control, parallax scrolling, pinned sections, scroll-synced video playback, seamless multi-section timelines, image masking effects, and a fully custom animated carousel.
-
-- **[Hostinger](https://jsm.dev/mbook-hostinger)** is a web hosting platform used in this project to deploy and manage the live website. Features include fast and reliable hosting, user-friendly control panel, one-click app installations, domain management, SSL certification, scalable server resources, and strong uptime guarantees to ensure smooth production deployment.
 
 - **[React](https://react.dev/)** is a declarative JavaScript library for building interactive UIs. It provides the component structure for modular development, allowing smooth integration of GSAP animations, reusable logic for scroll behavior, and support for responsive layout and state-driven UI features like carousels and video sections.
 
@@ -103,3 +97,5 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+This project is a comprehensive recreation of Apple's MacBook website, demonstrating advanced web development techniques with React, GSAP, and Three.js for immersive product showcases.
