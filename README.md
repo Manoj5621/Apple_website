@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="public/logo.svg" alt="Project Banner">
+      <img src="public/mask-logo.svg" alt="Project Banner">
     </a>
   <br />
 
