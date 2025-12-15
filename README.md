@@ -96,6 +96,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open [https://serene-zabaione-8445a4.netlify.app/] in your browser to view the project.
 
 This project is a comprehensive recreation of Apple's MacBook website, demonstrating advanced web development techniques with React, GSAP, and Three.js for immersive product showcases.
